@@ -53,7 +53,7 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/minecraft-ddos-tool-v2.git
-   cd minecraft-ddos-tool-v2
+   cd minecraft-ddos
    ```
    Replace `yourusername` with your actual GitHub username. 😉
 
@@ -66,7 +66,7 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 
 3. **Run the tool:**
    ```bash
-   python3 minecraft_ddos_tool_v2.py
+   python3 mcddosv2.py
    ```
    - 🪟 **Windows?** Use `python` if `python3` doesn’t work.
    - 🔑 **TCP methods** might need admin/root privileges for max impact.
