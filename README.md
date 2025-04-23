@@ -52,7 +52,7 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/minecraft-ddos-tool-v2.git
+   git clone https://github.com/faizyoshio/minecraft-ddos.git
    cd minecraft-ddos
    ```
    Replace `yourusername` with your actual GitHub username. 😉
